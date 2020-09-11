@@ -1,0 +1,7 @@
+{
+    "custom_menu": {},
+    "menu": {
+        "run development":"shell:npm run start",
+        "deploy github pages":"shell:npm run deploy"
+    }
+}
